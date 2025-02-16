@@ -14,7 +14,7 @@ To get started, clone the repository and install the necessary dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/js-workspace.git
+git clone https://github.com/Madhavi-Patil/ornl-assignment.git
 
 # Navigate to the project directory
 cd ornl-assignment
